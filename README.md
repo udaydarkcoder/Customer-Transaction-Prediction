@@ -1,4 +1,4 @@
-# project01
+# Customer Transaction Prediction
  It's my first data scientist intern project.  
 # Advanced Data Analysis and Predictive Modeling Endeavor - Customer Transaction Project
 
